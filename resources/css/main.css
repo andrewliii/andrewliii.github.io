@@ -1,0 +1,27 @@
+* {
+  font-family: sans-serif;
+}
+
+.square {
+  display: inline-block;
+  width: 200px;
+  min-height: 200px;
+  border: 5px;
+  border-radius: 5px;
+  padding: 5px;
+  color: black;
+  background-color: #ccc;
+  margin: 5px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.square:hover {
+  background-color: #aaa;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 32px;
+}
