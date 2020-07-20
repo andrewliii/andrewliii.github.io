@@ -1,0 +1,84 @@
+@font-face {
+  font-family: Archia;
+  src: url('../fonts/Archia/archia-medium-webfont.woff2');
+  font-weight: 100
+}
+
+* {
+  font-family: Archia;
+}
+
+p {
+  font-family: Archia;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: Archia;
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: Archia;
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: Archia;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+h4 {
+  font-family: Archia;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+h5 {
+  font-family: Archia;
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+h6 {
+  font-family: Archia;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.dark-mode {
+  background-color: #2D292E;
+  color: #DCDCDC;
+}
+
+.light-mode {
+  background-color: #DCDCDC;
+  color: #2D292E;
+}
+
+.align-tl {
+  display: block;
+  width: 24px;
+  height: 24px;
+  position: fixed;
+  top: 12px;
+  left: 12px;
+}
+
+header {
+position: fixed;
+top: 0spx;
+align-content: center;
+width: 100%
+}
+
+footer {
+position: fixed;
+bottom: 0px;
+align-content: center;
+width: 100%
+}
