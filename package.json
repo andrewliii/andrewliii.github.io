@@ -1,0 +1,19 @@
+{
+  "name": "andrewleaf22.github.io",
+  "version": "1.0.0",
+  "description": "If you're looking at this file, I advise you to just either (1) go to my profile or (2) click around on the actual website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewleaf22/andrewleaf22.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewleaf22/andrewleaf22.github.io/issues"
+  },
+  "homepage": "https://github.com/andrewleaf22/andrewleaf22.github.io#readme"
+}

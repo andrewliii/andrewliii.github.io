@@ -50,14 +50,9 @@ h6 {
   font-weight: normal;
 }
 
-.dark-mode {
-  background-color: #2D292E;
-  color: #DCDCDC;
-}
-
-.light-mode {
-  background-color: #DCDCDC;
-  color: #2D292E;
+.background {
+  background-color: #C8C8C8;
+  color: #1265B7;
 }
 
 .align-tl {
