@@ -50,18 +50,22 @@ h6 {
   font-weight: normal;
 }
 
+.beta {
+  font-family: Archia;
+  font-size: 12px;
+  font-weight: normal;
+  color: #B91212;
+}
+
 .background {
   background-color: #C8C8C8;
   color: #1265B7;
 }
 
-.align-tl {
-  display: block;
-  width: 24px;
-  height: 24px;
-  position: fixed;
-  top: 12px;
-  left: 12px;
+.courseBody {
+  width: 50%;
+  line-height: 30px;
+  color: #000000;
 }
 
 header {
